@@ -1,8 +1,8 @@
-#Mark 1 Assignment 
+# Mark 1 Assignment 
 This Assignment is part of Level zero Bootcamp by neog camp.
 
 
-#Building Do you know me Quiz
+# Building Do you know me Quiz
 
 The quiz can be "Do you know me",.
 Takeing Username as input.
